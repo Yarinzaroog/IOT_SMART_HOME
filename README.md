@@ -4,12 +4,6 @@
 
 ---
 
-## 🔍 **Project Overview**
-
-ShopGuard is a smart IoT-based system designed to monitor and optimize environmental conditions inside physical retail stores. Its goal is to create a safer, healthier, and more enjoyable shopping experience for both customers and staff.
-
----
-
 ## 🔍 Overview 
 
 By collecting real-time data from various environmental sensors, ShopGuard empowers store managers with actionable insights and automated controls to maintain ideal conditions. Whether it's air quality, temperature, noise levels, or crowd density – the system keeps the shopping environment comfortable, efficient, and aligned with customer expectations.
